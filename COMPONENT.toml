@@ -3,7 +3,7 @@ name = "SigmaOS-starship"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "starship component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
